@@ -1,0 +1,14 @@
+name: Inventorydroptoggle
+version: '${project.version}'
+main: me.mjdawson.inventorydroptoggle.Inventorydroptoggle
+api-version: 1.19
+authors: [MJDawson]
+description: "Allows each player to toggles if keep inventory is turned on for he player running the command"
+prefix: "IDT"
+website: "https://youtube.com/mjdawson"
+commands:
+  inventoryToggle:
+    aliases: [iT, it]
+    description: "Toggles if keep inventory is turned on for he player running the command"
+    usage: "/inventoryToggle"
+permissions:
