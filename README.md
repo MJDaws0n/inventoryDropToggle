@@ -1,5 +1,5 @@
 # Inventory Drop Toggle
-This is a basic plugin that alows minecraft server uses to set their own keep inventory rules.
+This is a basic plugin that allows minecraft server uses to set their own keep inventory rules.
 
 ## Commands
 /inventorytoggle - toggles keep inventory on or off for the player running it
