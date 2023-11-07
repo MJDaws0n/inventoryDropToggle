@@ -1,7 +1,7 @@
 # Keep Inventory must be enabled to start with or it will not work. To do this run the command /gamerule keepInventory true
 
 # Inventory Drop Toggle
-This is a basic plugin that allows minecraft server uses to set their own keep inventory rules.
+This is a basic plugin that allows minecraft server users to set their own keep inventory rules.
 
 ## Commands
 /inventorytoggle - toggles keep inventory on or off for the player running it
